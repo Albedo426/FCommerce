@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/main_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="@string/anasayfa"/>
+    <item
+        android:id="@+id/category_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_category_24"
+        android:title="Kategoriler"/>
+    <item
+        android:id="@+id/favorite_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="Favorilerim"/>
+    <item
+        android:id="@+id/cart_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="Sepetim"/>
+    <item
+        android:id="@+id/account_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Hesap"/>
+</menu>

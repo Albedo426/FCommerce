@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FCommerce</string>
+    <string name="email">Email Adresi</string>
+    <string name="password">şifre</string>
+    <string name="login">giriş yap</string>
+    <string name="kendrick">Kendrick</string>
+    <string name="already_have_an_account">Already have an account?</string>
+</resources>
